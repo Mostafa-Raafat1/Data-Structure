@@ -1,0 +1,105 @@
+﻿  ConsoleApplication2.cpp
+  linkedList.cpp
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(10,15): error C2061: syntax error: identifier 't'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(16,4): error C3646: 'getData': unknown override specifier
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(16,11): error C2059: syntax error: '('
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(16,14): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(11,10): error C3861: 'd': identifier not found
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(11,10): error C2065: 'd': undeclared identifier
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(36,19): error C2512: 'Node': no appropriate default constructor available
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(37,12): error C2660: 'Node<T>::setData': function does not take 1 arguments
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(39,13): error C2662: 'void Node<T>::setNext(Node<T> *)': cannot convert 'this' pointer from 'Node' to 'Node<T> &'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(44,13): error C2662: 'void Node<T>::setNext(Node<T> *)': cannot convert 'this' pointer from 'Node' to 'Node<T> &'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(50,19): error C2512: 'Node': no appropriate default constructor available
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(51,12): error C2660: 'Node<T>::setData': function does not take 1 arguments
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(54,13): error C2662: 'void Node<T>::setNext(Node<T> *)': cannot convert 'this' pointer from 'Node' to 'Node<T> &'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(59,15): error C2662: 'Node<T> *Node<T>::getNext(void)': cannot convert 'this' pointer from 'Node' to 'Node<T> &'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(60,12): error C2662: 'void Node<T>::setNext(Node<T> *)': cannot convert 'this' pointer from 'Node' to 'Node<T> &'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(61,15): error C2662: 'void Node<T>::setNext(Node<T> *)': cannot convert 'this' pointer from 'Node' to 'Node<T> &'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(63,18): error C2662: 'Node<T> *Node<T>::getNext(void)': cannot convert 'this' pointer from 'Node' to 'Node<T> &'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(63,25): error C2440: '=': cannot convert from 'Node<T> *' to 'Node *'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(74,20): error C2512: 'Node': no appropriate default constructor available
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(75,13): error C2660: 'Node<T>::setData': function does not take 1 arguments
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(76,14): error C2039: 'getData': is not a member of 'Node'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(80,33): error C2662: 'Node<T> *Node<T>::getNext(void)': cannot convert 'this' pointer from 'Node' to 'Node<T> &'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(82,18): error C2662: 'Node<T> *Node<T>::getNext(void)': cannot convert 'this' pointer from 'Node' to 'Node<T> &'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(82,25): error C2440: '=': cannot convert from 'Node<T> *' to 'Node *'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(84,27): error C2662: 'Node<T> *Node<T>::getNext(void)': cannot convert 'this' pointer from 'Node' to 'Node<T> &'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(85,10): error C2662: 'void Node<T>::setNext(Node<T> *)': cannot convert 'this' pointer from 'Node' to 'Node<T> &'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(96,18): error C2039: 'getData': is not a member of 'Node'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(97,17): error C2662: 'Node<T> *Node<T>::getNext(void)': cannot convert 'this' pointer from 'Node' to 'Node<T> &'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(97,24): error C2440: '=': cannot convert from 'Node<T> *' to 'Node *'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(106,17): error C2662: 'Node<T> *Node<T>::getNext(void)': cannot convert 'this' pointer from 'Node' to 'Node<T> &'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(106,24): error C2440: '=': cannot convert from 'Node<T> *' to 'Node *'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(114,14): error C2039: 'getData': is not a member of 'Node'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(117,17): error C2662: 'Node<T> *Node<T>::getNext(void)': cannot convert 'this' pointer from 'Node' to 'Node<T> &'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(117,24): error C2440: '=': cannot convert from 'Node<T> *' to 'Node *'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(124,19): error C2512: 'Node': no appropriate default constructor available
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(125,12): error C2660: 'Node<T>::setData': function does not take 1 arguments
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(130,17): error C2662: 'Node<T> *Node<T>::getNext(void)': cannot convert 'this' pointer from 'Node' to 'Node<T> &'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(132,18): error C2662: 'Node<T> *Node<T>::getNext(void)': cannot convert 'this' pointer from 'Node' to 'Node<T> &'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(132,25): error C2440: '=': cannot convert from 'Node<T> *' to 'Node *'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(134,10): error C2662: 'void Node<T>::setNext(Node<T> *)': cannot convert 'this' pointer from 'Node' to 'Node<T> &'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(135,13): error C2662: 'void Node<T>::setNext(Node<T> *)': cannot convert 'this' pointer from 'Node' to 'Node<T> &'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(148,14): error C2039: 'getData': is not a member of 'Node'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(150,18): error C2662: 'Node<T> *Node<T>::getNext(void)': cannot convert 'this' pointer from 'Node' to 'Node<T> &'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(150,25): error C2440: '=': cannot convert from 'Node<T> *' to 'Node *'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(153,33): error C2662: 'Node<T> *Node<T>::getNext(void)': cannot convert 'this' pointer from 'Node' to 'Node<T> &'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(154,18): error C2662: 'Node<T> *Node<T>::getNext(void)': cannot convert 'this' pointer from 'Node' to 'Node<T> &'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(154,25): error C2440: '=': cannot convert from 'Node<T> *' to 'Node *'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(156,19): error C2662: 'Node<T> *Node<T>::getNext(void)': cannot convert 'this' pointer from 'Node' to 'Node<T> &'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(156,26): error C2440: '=': cannot convert from 'Node<T> *' to 'Node *'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(157,24): error C2662: 'Node<T> *Node<T>::getNext(void)': cannot convert 'this' pointer from 'Node' to 'Node<T> &'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(157,10): error C2662: 'void Node<T>::setNext(Node<T> *)': cannot convert 'this' pointer from 'Node' to 'Node<T> &'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(10,15): error C2061: syntax error: identifier 't'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(16,4): error C3646: 'getData': unknown override specifier
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(16,11): error C2059: syntax error: '('
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(16,14): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(11,10): error C3861: 'd': identifier not found
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(11,10): error C2065: 'd': undeclared identifier
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(36,19): error C2512: 'Node': no appropriate default constructor available
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(37,12): error C2660: 'Node<T>::setData': function does not take 1 arguments
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(39,13): error C2662: 'void Node<T>::setNext(Node<T> *)': cannot convert 'this' pointer from 'Node' to 'Node<T> &'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(44,13): error C2662: 'void Node<T>::setNext(Node<T> *)': cannot convert 'this' pointer from 'Node' to 'Node<T> &'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(50,19): error C2512: 'Node': no appropriate default constructor available
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(51,12): error C2660: 'Node<T>::setData': function does not take 1 arguments
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(54,13): error C2662: 'void Node<T>::setNext(Node<T> *)': cannot convert 'this' pointer from 'Node' to 'Node<T> &'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(59,15): error C2662: 'Node<T> *Node<T>::getNext(void)': cannot convert 'this' pointer from 'Node' to 'Node<T> &'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(60,12): error C2662: 'void Node<T>::setNext(Node<T> *)': cannot convert 'this' pointer from 'Node' to 'Node<T> &'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(61,15): error C2662: 'void Node<T>::setNext(Node<T> *)': cannot convert 'this' pointer from 'Node' to 'Node<T> &'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(63,18): error C2662: 'Node<T> *Node<T>::getNext(void)': cannot convert 'this' pointer from 'Node' to 'Node<T> &'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(63,25): error C2440: '=': cannot convert from 'Node<T> *' to 'Node *'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(74,20): error C2512: 'Node': no appropriate default constructor available
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(75,13): error C2660: 'Node<T>::setData': function does not take 1 arguments
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(76,14): error C2039: 'getData': is not a member of 'Node'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(80,33): error C2662: 'Node<T> *Node<T>::getNext(void)': cannot convert 'this' pointer from 'Node' to 'Node<T> &'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(82,18): error C2662: 'Node<T> *Node<T>::getNext(void)': cannot convert 'this' pointer from 'Node' to 'Node<T> &'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(82,25): error C2440: '=': cannot convert from 'Node<T> *' to 'Node *'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(84,27): error C2662: 'Node<T> *Node<T>::getNext(void)': cannot convert 'this' pointer from 'Node' to 'Node<T> &'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(85,10): error C2662: 'void Node<T>::setNext(Node<T> *)': cannot convert 'this' pointer from 'Node' to 'Node<T> &'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(96,18): error C2039: 'getData': is not a member of 'Node'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(97,17): error C2662: 'Node<T> *Node<T>::getNext(void)': cannot convert 'this' pointer from 'Node' to 'Node<T> &'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(97,24): error C2440: '=': cannot convert from 'Node<T> *' to 'Node *'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(106,17): error C2662: 'Node<T> *Node<T>::getNext(void)': cannot convert 'this' pointer from 'Node' to 'Node<T> &'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(106,24): error C2440: '=': cannot convert from 'Node<T> *' to 'Node *'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(114,14): error C2039: 'getData': is not a member of 'Node'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(117,17): error C2662: 'Node<T> *Node<T>::getNext(void)': cannot convert 'this' pointer from 'Node' to 'Node<T> &'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(117,24): error C2440: '=': cannot convert from 'Node<T> *' to 'Node *'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(124,19): error C2512: 'Node': no appropriate default constructor available
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(125,12): error C2660: 'Node<T>::setData': function does not take 1 arguments
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(130,17): error C2662: 'Node<T> *Node<T>::getNext(void)': cannot convert 'this' pointer from 'Node' to 'Node<T> &'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(132,18): error C2662: 'Node<T> *Node<T>::getNext(void)': cannot convert 'this' pointer from 'Node' to 'Node<T> &'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(132,25): error C2440: '=': cannot convert from 'Node<T> *' to 'Node *'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(134,10): error C2662: 'void Node<T>::setNext(Node<T> *)': cannot convert 'this' pointer from 'Node' to 'Node<T> &'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(135,13): error C2662: 'void Node<T>::setNext(Node<T> *)': cannot convert 'this' pointer from 'Node' to 'Node<T> &'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(148,14): error C2039: 'getData': is not a member of 'Node'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(150,18): error C2662: 'Node<T> *Node<T>::getNext(void)': cannot convert 'this' pointer from 'Node' to 'Node<T> &'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(150,25): error C2440: '=': cannot convert from 'Node<T> *' to 'Node *'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(153,33): error C2662: 'Node<T> *Node<T>::getNext(void)': cannot convert 'this' pointer from 'Node' to 'Node<T> &'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(154,18): error C2662: 'Node<T> *Node<T>::getNext(void)': cannot convert 'this' pointer from 'Node' to 'Node<T> &'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(154,25): error C2440: '=': cannot convert from 'Node<T> *' to 'Node *'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(156,19): error C2662: 'Node<T> *Node<T>::getNext(void)': cannot convert 'this' pointer from 'Node' to 'Node<T> &'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(156,26): error C2440: '=': cannot convert from 'Node<T> *' to 'Node *'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(157,24): error C2662: 'Node<T> *Node<T>::getNext(void)': cannot convert 'this' pointer from 'Node' to 'Node<T> &'
+C:\Users\Moustafa\source\repos\ConsoleApplication2\ConsoleApplication2\linkedList.h(157,10): error C2662: 'void Node<T>::setNext(Node<T> *)': cannot convert 'this' pointer from 'Node' to 'Node<T> &'
+  Generating Code...
