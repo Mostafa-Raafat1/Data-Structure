@@ -1,0 +1,103 @@
+current page is :  
+https://www.gzeromedia.com/what-were-watching-trumps-day-in-court-turkey-stuffing-sweden-egypt-buddying-up
+
+Instrunction : Backward
+The current page is : 
+https://www.bloomberg.com/news/articles/2023-04-04/egypt-s-35-000-bond-sale-shows-currency-risk-sapping-demand
+The next one is : 
+https://www.gzeromedia.com/what-were-watching-trumps-day-in-court-turkey-stuffing-sweden-egypt-buddying-up
+The previous one is :
+ https://www.al-monitor.com/originals/2023/04/egypt-sudan-hold-joint-military-drills-nile-dispute-ethiopia-drags
+
+
+
+Instrunction : Backward
+The current page is : 
+https://www.al-monitor.com/originals/2023/04/egypt-sudan-hold-joint-military-drills-nile-dispute-ethiopia-drags
+The next one is : 
+https://www.bloomberg.com/news/articles/2023-04-04/egypt-s-35-000-bond-sale-shows-currency-risk-sapping-demand
+The previous one is :
+ https://www.livescience.com/see-the-oldest-human-ever-found-in-egypt-in-stunning-new-facial-approximation
+
+
+
+Instrunction : Backward
+The current page is : 
+https://www.livescience.com/see-the-oldest-human-ever-found-in-egypt-in-stunning-new-facial-approximation
+The next one is : 
+https://www.al-monitor.com/originals/2023/04/egypt-sudan-hold-joint-military-drills-nile-dispute-ethiopia-drags
+The previous one is :
+ https://www.haaretz.com/middle-east-news/2023-04-04/ty-article/.premium/modern-egypts-10-plagues-are-all-about-the-economy/00000187-4be9-d423-a98f-dffd5f7a0000
+
+
+
+Instrunction : Forward
+The current page is : 
+https://www.al-monitor.com/originals/2023/04/egypt-sudan-hold-joint-military-drills-nile-dispute-ethiopia-drags
+The next one is : 
+https://www.bloomberg.com/news/articles/2023-04-04/egypt-s-35-000-bond-sale-shows-currency-risk-sapping-demand
+The previous one is :
+ https://www.livescience.com/see-the-oldest-human-ever-found-in-egypt-in-stunning-new-facial-approximation
+
+
+
+Instrunction : Forward
+The current page is : 
+https://www.bloomberg.com/news/articles/2023-04-04/egypt-s-35-000-bond-sale-shows-currency-risk-sapping-demand
+The next one is : 
+https://www.gzeromedia.com/what-were-watching-trumps-day-in-court-turkey-stuffing-sweden-egypt-buddying-up
+The previous one is :
+ https://www.al-monitor.com/originals/2023/04/egypt-sudan-hold-joint-military-drills-nile-dispute-ethiopia-drags
+
+
+
+Instrunction : Backward
+The current page is : 
+https://www.al-monitor.com/originals/2023/04/egypt-sudan-hold-joint-military-drills-nile-dispute-ethiopia-drags
+The next one is : 
+https://www.bloomberg.com/news/articles/2023-04-04/egypt-s-35-000-bond-sale-shows-currency-risk-sapping-demand
+The previous one is :
+ https://www.livescience.com/see-the-oldest-human-ever-found-in-egypt-in-stunning-new-facial-approximation
+
+
+
+Instrunction : Forward
+The current page is : 
+https://www.bloomberg.com/news/articles/2023-04-04/egypt-s-35-000-bond-sale-shows-currency-risk-sapping-demand
+The next one is : 
+https://www.gzeromedia.com/what-were-watching-trumps-day-in-court-turkey-stuffing-sweden-egypt-buddying-up
+The previous one is :
+ https://www.al-monitor.com/originals/2023/04/egypt-sudan-hold-joint-military-drills-nile-dispute-ethiopia-drags
+
+
+
+Instrunction : Backward
+The current page is : 
+https://www.al-monitor.com/originals/2023/04/egypt-sudan-hold-joint-military-drills-nile-dispute-ethiopia-drags
+The next one is : 
+https://www.bloomberg.com/news/articles/2023-04-04/egypt-s-35-000-bond-sale-shows-currency-risk-sapping-demand
+The previous one is :
+ https://www.livescience.com/see-the-oldest-human-ever-found-in-egypt-in-stunning-new-facial-approximation
+
+
+
+Instrunction : Backward
+The current page is : 
+https://www.livescience.com/see-the-oldest-human-ever-found-in-egypt-in-stunning-new-facial-approximation
+The next one is : 
+https://www.al-monitor.com/originals/2023/04/egypt-sudan-hold-joint-military-drills-nile-dispute-ethiopia-drags
+The previous one is :
+ https://www.haaretz.com/middle-east-news/2023-04-04/ty-article/.premium/modern-egypts-10-plagues-are-all-about-the-economy/00000187-4be9-d423-a98f-dffd5f7a0000
+
+
+
+Instrunction : Backward
+The current page is : 
+https://www.haaretz.com/middle-east-news/2023-04-04/ty-article/.premium/modern-egypts-10-plagues-are-all-about-the-economy/00000187-4be9-d423-a98f-dffd5f7a0000
+The next one is : 
+https://www.livescience.com/see-the-oldest-human-ever-found-in-egypt-in-stunning-new-facial-approximation
+The previous one is :
+ https://www.voanews.com/a/egypt-s-rampant-inflation-squeezes-ramadan-charities/7036904.html
+
+
+
